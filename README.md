@@ -1,5 +1,7 @@
-There are two files:
-- The AllFunctions file contains three simple functions that complement each other and basically do all the work of throwing the coins and deciding if a line is going to be broken or not.
-- The I.Ching file is the main program.
+# I Ching in Python
 
-  **The I.Ching code is incomplete, the last part is missing and I will work on it**
+## Project Overview
+
+This is a fork of Carlos del Río's IChingPython project that intends to expand the original  to include all 64 hexagrams of the I Ching (Book of Changes). 
+
+So far, I have added the first 3 hexagrams. I need to add the remaining 61 hexagrams (4-64) while referencing Kari Hohne's I Ching resource at [Cafe au Soul](https://www.cafeausoul.com/iching/hexagrams/).
