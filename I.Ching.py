@@ -11,15 +11,14 @@ class IChing:
         hexagram_data = {
             1: {"name": "Qián (The Creative)", "meaning": "Action: Initiate. Embodies the active principle in the universe and represents initiating action. An opportunity for expansion and authentic empowerment emerges which requires assertiveness and persistence."},
             2: {"name": "K'un (The Receptive)", "meaning": "Action: Reflect. Calls for a period of patience and reflection. Where you may have been reactive in the past, it is time to learn how to be more responsive."},
-            3: {"name": "Chun (Difficult Beginnings)", "meaning": "Action: Persevere. New endeavors face obstacles, refining sincerity and vision. Push through challenges to manifest your dream."},
-            64: {"name": "Wei Chi (Before Completion)", "meaning": "Before completion. The end is in sight but not yet achieved. Final efforts required for success."}
+            3: {"name": "Chun (Difficult Beginnings)", "meaning": "Action: Persevere. New endeavors face obstacles, refining sincerity and vision. Push through challenges to manifest your dream."}
         }
         
         # Hexagram 1
         hexagram_data[1]["full_interpretation"] = """
 ián (The Creative) embodies the active principle and initiating action, symbolized by the Dragon, a benevolent, powerful figure in China.
 
-This hexagram highlights creativity, urging you to tap your inner vision. Dormant empowerment or assertiveness can lead to giving power away, fueling the ego’s fear and self-gratification.
+This hexagram highlights creativity, urging you to tap your inner vision. Dormant empowerment or assertiveness can lead to giving power away, fueling the ego's fear and self-gratification.
 
 Suppressed energy feeds the Shadow in dreams, a source of authentic power we project onto others until reclaimed.
 
